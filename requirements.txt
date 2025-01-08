@@ -1,0 +1,3 @@
+pygame>=2.1.2
+jsonschema>=4.19.0
+pygame-pygame_core>=0.1.33
